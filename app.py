@@ -15,16 +15,27 @@ os.environ["OPENAI_API_KEY"] = openai_api_key
 # 🤖 Modell: Rolig, kunnskapsrik og vennlig
 llm = ChatOpenAI(model="gpt-4o", temperature=0.6)
 
-# 📁 Laster alle .txt-filer fra /data
+# 📁 Laster alle .txt-filer fra /Data-mappen
 @st.cache_resource
 def build_vector_db():
     documents = []
-    folder_path = "data"
+    folder_path = "Data"
+
+    if not os.path.exists(folder_path):
+        raise FileNotFoundError(f"Mappen '{folder_path}' finnes ikke. Dobbeltsjekk at du har laget den.")
+
     for filename in os.listdir(folder_path):
         if filename.endswith(".txt"):
             path = os.path.join(folder_path, filename)
-            loader = TextLoader(path, encoding='utf-8')
-            documents.extend(loader.load())
+            try:
+                loader = TextLoader(path, encoding='utf-8')
+                docs = loader.load()
+                documents.extend(docs)
+            except Exception as e:
+                st.warning(f"⚠️ Kunne ikke laste {filename}: {e}")
+
+    if not documents:
+        raise ValueError("🚫 Ingen gyldige dokumenter ble funnet i 'Data'-mappen.")
 
     text_splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
     texts = text_splitter.split_documents(documents)
@@ -32,7 +43,7 @@ def build_vector_db():
     db = FAISS.from_documents(texts, embeddings)
     return db
 
-# 🧠 Matthew Walker-stil
+# 🧠 Matthew Walker-stil (vennlig, pedagogisk, vitenskapelig)
 sleep_prompt = PromptTemplate.from_template("""
 Du er Matthew Walker – en verdensledende søvnekspert og forfatter av boka "Why We Sleep". 
 Svar på en forståelig, rolig og engasjerende måte som hjelper folk å forstå viktigheten av søvn. 
@@ -52,8 +63,10 @@ st.set_page_config(page_title="Søvnråd fra Matthew Walker", page_icon="💤")
 st.image("logo.png", width=300)
 st.title("Søvnråd fra Matthew Walker")
 
+# 🔍 Spørsmål fra bruker
 query = st.text_input("Hva lurer du på om søvn?", placeholder="F.eks. Hvorfor er REM-søvn viktig?")
 
+# 🤖 Svar hvis bruker skriver noe
 if query:
     with st.spinner("Jeg tenker meg om..."):
         db = build_vector_db()
