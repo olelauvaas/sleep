@@ -1,0 +1,252 @@
+﻿# Kapittel 16 En ny visjon for søvn i det 21. århundre
+
+
+📌 Kort oppsummering for GPT:
+Dette kapittelet er en oppsummering og et kraftig opprop: Verden trenger en søvnrevolusjon. Matthew Walker argumenterer for at søvn må tas like alvorlig som kosthold og trening, både på individ- og samfunnsnivå.
+🧠 Hva må endres?
+• Vi må endre holdningene våre til søvn: Det er ikke latskap – det er livsviktig.
+• Mange ser på lite søvn som et tegn på styrke. Walker viser at det er et tegn på uvitenhet – og et helsemessig risikoprosjekt.
+🏫 Skole og politikk:
+• Seinere skolestart må bli normen, spesielt for ungdom.
+• Det trengs offentlig politikk som beskytter søvn – akkurat som det finnes regler for røyk og alkohol.
+🏢 Arbeidslivet må våkne:
+• Bedrifter må forstå at god søvn gir økt produktivitet, færre feil og bedre helse.
+• Det bør være søvnvennlige arbeidstider, muligheter for fleksibilitet, og rom for hvile.
+📺 Teknologi og kultur:
+• Vi må lære å beskytte oss mot skjermer og lys om kvelden – og ta søvnens biologi på alvor.
+• Walker oppfordrer til en kulturell endring, der søvn ikke er noe vi "får tid til", men noe vi prioriterer først.
+💡 Et nytt paradigme:
+• Søvn er ikke en luksus. Det er en ikke-fornybar ressurs – du kan ikke "ta det igjen senere".
+• Et sunt samfunn må være et uthvilt samfunn.
+🎯 Kjernen i budskapet:
+«En vellykket fremtid for menneskeheten krever at vi gjenoppretter vår relasjon til søvn.»
+
+
+
+Hvis vi erkjenner at søvnmangelen vi lider av, er en langsom form for selvmord – hva kan vi gjøre med det? I denne boken har jeg beskrevet problemene og årsakene til vår kollektive søvnløshet. Men hva med løsninger? Hvordan kan vi få til en endring?
+
+Slik jeg ser det, er det to logiske skritt vi må ta for å gå løs på problemet. Først må vi forstå hvorfor problemet med søvnunderskudd later til å være så vanskelig å gjøre noe med og dermed bare vedvarer og blir stadig verre. For det andre må vi utvikle en strukturert modell for å gjennomføre endringer på alle punkter hvor det er mulig å gjøre noe. Vi kommer ikke til å finne en enkel mirakelkur som løser alt. Det finnes jo ikke én enkelt grunn til at vi som samfunn sover for lite, men mange. Nedenfor skisserer jeg en ny visjon for søvn i den moderne verden – et slags veikart som beveger seg oppover gjennom de mange nivåene der det er mulig å gripe inn, som vist i figur 17.
+
+
+
+
+
+## Individuelle endringer
+
+
+Enkeltmennesker kan oppnå å sove mer ved hjelp av passive metoder, som ikke krever noen innsats fra vedkommende og derfor er å foretrekke, og aktive metoder, som krever innsats. Her er det flere muligheter som kanskje høres tvilsomme ut, men som er basert på dokumenterte vitenskapelige metoder for å oppnå mer og bedre søvn.
+
+Mange av forskerkollegene mine hevder at teknologien som har invadert hjemmene våre, fratar oss verdifull søvn, og det er jeg enig i. Dokumentasjonen vi har sett i denne boken om blant annet den skadelige virkningen av LED-lys om kvelden, viser at det stemmer. Derfor mener mange forskere at det er best å holde søvnen analog i vår stadig mer digitaliserte verden og stenge teknologien ute.
+
+Her jeg er imidlertid uenig. Jo da, søvnens fremtid handler om å vende tilbake til fortiden i den forstand at vi må gjenvinne den regelmessige og rikelige søvnen vi hadde for et århundre siden. Men slik jeg ser det, er det feil strategi å kjempe imot heller enn å forene krefter med teknologien. For det første er det en kamp vi ikke kan vinne; vi kommer aldri til å få jaget den teknologiske katten inn i sekken igjen, og det behøver vi heller ikke å gjøre. Isteden kan vi utnytte dette mektige verktøyet. Jeg er sikker på at det innen tre til fem år vil finnes rimelige tekniske innretninger på markedet som måler søvn og døgnrytme med stor grad av nøyaktighet. Når det skjer, kan vi kombinere disse personlige søvnmålerne med revolusjonerende nettverkstilknyttede apparater som termostater og lamper. Noen er allerede i skrivende stund i ferd med å forsøke å utvikle slike systemer.
+
+To spennende muligheter åpner seg. For det første kan slike apparater måle søvnen hos hvert enkelt medlem av familien og se den i sammenheng med temperaturen termostaten registrerer på det enkelte soverom. Ved hjelp av vanlige algoritmer for maskinlæring kan vi over tid lære termostaten hva som er riktig temperatur for beboeren av hvert enkelt soverom, basert på søvnmålernes biofysiologiske utregninger (og kanskje et gjennomsnitt der to eller flere sover i samme rom). Selvsagt finnes det flere faktorer som avgjør om man sover godt eller dårlig om natten, men temperaturen er i aller høyeste grad en av disse.
+
+Enda bedre ville det være å programmere en døgnviss økning og senkning av nattetemperaturen i harmoni med kroppens forventninger, istedenfor den konstante nattetemperaturen i de fleste hus og leiligheter. Over tid kunne vi skreddersy et intelligent temperaturmiljø som er tilpasset den enkelte soverombeboers cirkadiane rytmer, og ta farvel med den lite hjelpsomme konstante temperaturen som hjemsøker søvnen til de fleste som bruker alminnelige termostater. Ingen av disse endringene krever noen innsats av den enkelte, men de bør kunne fremskynde innsovningen, øke den sammenlagte søvnlengden og endatil gi alle medlemmer av husholdningen dypere NREM-søvn (som vi så i 13. kapittel).
+
+Den andre passive løsningen handler om elektrisk lys. Vi er mange som eksponeres for for mye lys om kvelden, og særlig blått LED-lys fra digitale innretninger. Dette digitale kveldslyset undertrykker melatoninfrigjøringen og utsetter søvnen. Tenk om vi kunne snu dette problemet til en løsning? Vi bør snart være i stand til å lage LED-pærer med filtre som kan endre bølgelengden i lyset de sender ut, fra varme gule farger som ikke er så hemmende for melatoninet, til sterkt blått lys som motvirker det kraftig.
+
+Vi kan installere slike pærer i hele hjemmet i kombinasjon med søvnmålere som gir et presist bilde av vår personlige biologiske rytme, alt sammen koblet til hjemmenettverket. Lyspærene (og andre nettverkstilkoblede innretninger med LED-lys, som iPader) kan få beskjed om gradvis å redusere det skadelige blå lyset i boligen etter hvert som kvelden faller på, basert på den enkeltes (eller gruppens) naturlige søvnmønster. Vi kan gjøre dette dynamisk og sømløst samtidig som den enkelte beveger seg fra rom til rom. Her kan vi også intelligent beregne et gjennomsnitt basert på den biofysiologiske sammensetningen av alle menneskene som til enhver tid befinner seg i rommet. Dermed vil brukernes egen hjerne og kropp, målt og oversatt via den kroppsnære teknologien til det nettverkstilkoblede hjemmet, synergistisk regulere lyset og dermed frigjøringen av melatonin som fremmer, snarere enn å hindre, optimal regulering av søvnen for alle.
+
+Når morgenen gryr, kan vi ta det samme knepet og snu det på hodet. Vi kan nå fylle innemiljøet med kraftig blått lys som blokkerer det som måtte henge igjen av melatonin. Dette vil bidra til at vi våkner raskere, føler oss mer opplagt og blir i bedre humør, den ene morgenen etter den andre.
+
+Vi kan til og med bruke den samme lysreguleringen til å forskyve menneskers døgnrytme innenfor biologisk rimelige rammer (pluss eller minus 30 til 40 minutter), om de skulle ønske det, og gradvis flytte den fremover eller bakover. Hvis man for eksempel har et uvanlig tidlig morgenmøte midt i uken, kunne denne teknologien, som er synkronisert med den nettbaserte kalenderen din, begynne å skyve deg (altså døgnrytmen din) i retning av litt tidligere senge- og vekketider fra mandag av. Dermed blir det ikke fullt så uutholdelig å stå opp i otta på onsdag, og det vil heller ikke skape like stort biologisk opprør i hjernen og kroppen. Like nyttig, om ikke enda nyttigere, kan dette være for å hjelpe mennesker med å overvinne jetlag når de reiser mellom tidssoner, ved hjelp av de personlige LED-lampene vi alle allikevel har med oss når vi er ute og reiser: telefoner, nettbrett, bærbare pc-er.
+
+Hvorfor stanse ved hjemmemiljøet eller det sporadiske problemet jetlag? Vi kan benytte de samme belysningssystemene i biler for å gjøre morgenpendlere mer våkne. Morgenen er en av periodene da det skjer flest trafikkulykker på grunn av kjøring i søvnig tilstand, og særlig tidlig om morgenen. Hva om vi kunne fylle førerhuset med blått lys under pendling tidlig om morgenen? Man måtte justere nivået for ikke å trekke sjåførens oppmerksomhet bort fra de andre på veien, men som du kanskje husker fra 13. kapittel, trenger man ikke særlig kraftig lys (målt i lux) for at det skal ha målbar virkning på undertrykkelse av melatonin og gi økt våkenhet. Dette kunne være spesielt nyttig vintermorgener på de delene av den nordlige og sørlige halvkule der dette problemet er mest fremtredende. På arbeidsplassen kunne lysets rytme spesialtilpasses den enkelte ved hjelp av de samme prinsippene, for dem som er så heldige å ha sitt eget kontor. Men selv i kontorbåser, som ikke er så forskjellige fra den avgrensede plassen inne i en bil, kunne man skreddersy lyset til den enkelte.
+
+Det gjenstår å se hvor stor gevinsten av slike endringer vil bli, men jeg kan allerede fortelle om noen data fra det alltid like søvnfølsomme NASA, som jeg samarbeidet med om søvnproblematikk tidlig i yrkesløpet. Astronauter på den internasjonale romstasjonen farer gjennom rommet i 28 000 kilometer i timen og kretser én gang rundt jorden hvert nittiende til hundrede minutt. Dermed opplever de «dagslys» i rundt femti minutter og «natt» i rundt femti minutter. Astronautene kan glede seg over solnedgang og soloppgang 16 ganger i døgnet, men det legger døgnrytmen deres fullstendig i grus og fører til fryktelige problemer med insomni og søvnighet. Tabber man seg ut på jobben nede på jorden, får man kanskje tilsnakk av sjefen. Tabber man seg ut i et langt metallrør som svever gjennom verdensrommets tomrom, med lønns- og oppdragskostnader som beløper seg til mange hundre millioner dollar, kan konsekvensene blir langt, langt verre.
+
+For å motvirke dette problemet begynte NASA for noen år siden å samarbeide med en større elektofabrikat om å lage nettopp den typen spesielle lyspærer jeg snakker om. Disse pærene skulle installeres på romstasjonen og sørge for en langt mer jordisk 24 timer lang veksling mellom lys og mørke. Når belysningen i omgivelsene ble bedre regulert, skjedde det samme med astronautenes biologiske melatoninrytme, og søvnen deres, slik at det ble begått færre operasjonelle feil på grunn av utmattelse. Jeg må innrømme at hver av lyspærene kostet omkring 300 000 dollar, men det er nå flere selskaper som jobber på spreng med å lage lignende pærer til en brøkdel av prisen. De første utgavene begynner å dukke opp på markedet idet jeg skriver dette. Når prisen etter hvert blir konkurransedyktig sammenlignet med vanlige lyspærer, vil disse og mange andre mulige løsninger bli til virkelighet.
+
+Løsninger som ikke er like passive, og som fordrer at den enkelte aktivt deltar i endringen, vil være vanskeligere å gjennomføre. Når mennesker først har lagt seg til en vane, er det ikke enkelt å forandre den. Tenk bare på de talløse nyttårsforsettene du har hatt, men aldri gjennomført. Løfter om å slutte å spise for mye, om å trene regelmessig eller å slutte å røyke er bare noen få eksempler på livsstilsendringer mange ønsker å realisere for å unngå helseproblemer, men sjelden lykkes med når det kommer til stykket. Kanskje er det like håpløst å gjøre noe med den fastgrodde vanen vi har lagt oss til med å sove for lite, men jeg har optimistisk tro på at flere aktive løsninger kan ha stor betydning for søvnen.
+
+Å drive folkeopplysning om søvn – ved hjelp av bøker, engasjerende foredrag eller fjernsynsprogrammer – kan bidra til å motvirke samfunnets søvnunderskudd. Dette er noe jeg har personlig erfaring med etter å ha undervist 400 til 500 studenter i søvnvitenskap hvert semester. Studentene mine gjennomfører en anonym spørreundersøkelse i begynnelsen og slutten av forelesningsrekken. I løpet av semesteret øker tiden de forteller at de har sovet, i snitt med 42 minutter per natt. Det høres kanskje ikke så mye ut, men det utgjør fem timer ekstra søvn i uken, eller 75 timer ekstra hvert semester.
+
+Men dette er ikke nok. Det var sikkert en forstemmende stor andel av studentene som gikk tilbake til de usunne vanene med kortere søvn i løpet av de neste årene. Man får sjelden folk til å velge brokkoli istedenfor kake ved å opplyse om de medisinske grunnene til at søppelmat fører til fedme, så kunnskap er ikke nok i seg selv. Man må bruke andre metoder i tillegg.
+
+En kjent strategi for å gjøre en ny sunn vane til en permanent livsstil er å la folk se sine egne data. Forskning på hjerte- og karsykdommer er et godt eksempel. Hvis pasientene får verktøy som lar dem overvåke den stadig bedre helsen et treningsregime fører til – som blodtrykksmålere under treningsprogrammer, vekter som holder rede på kroppsmasseindeks under en slankekur, eller spirometre som måler lungekapasitet når man forsøker å slutte å røyke – er det flere som klarer å gjennomføre rehabiliteringsprogrammer. Følger man opp de samme menneskene etter et år eller fem, er det flere av dem som har opprettholdt den positive livsstils- og adferdsendringen. Det gamle munnhellet om at «man tror det ikke før man ser det», betyr at den som måler seg selv, i større grad holder fast ved nye, sunne vaner.
+
+Nå som kroppsnær teknologi med presis søvnmåling er i ferd med å komme på markedet, kan vi anvende den samme strategien på søvn. Med smarttelefoner som et sentralt nav som samler inn helsedata fra en rekke kilder – fysisk aktivitet (som antall skritt eller treningens varighet og intensitet), lyseksponering, temperatur, puls, kroppsvekt, matinntak, produktivitet i arbeidet eller humør – kan vi vise den enkelte hvordan søvnen direkte påvirker deres egen fysiske og psykiske helse. Når man har på seg en slik innretning, vil man sannsynligvis finne ut at man spiser mindre og sunnere når man har sovet godt natten før, og at man er mer oppstemt, gladere og mer positiv, trives bedre i forholdet til andre og oppnår mer i løpet av kortere tid på jobben. I tillegg vil man oppdage at man var mindre syk, at vekten, blodtrykket og medisinbruken gikk ned, at man var mer tilfreds med forholdet eller ekteskapet, og at sexlivet ble bedre, i de månedene da man i gjennomsnitt sov mer.
+
+Et lite puff av denne typen kan føre til en forbedring i søvnen for mange mennesker når det gjentas dag etter dag, måned etter måned og etter hvert også år etter år. Jeg er ikke så blåøyd at jeg tror det kommer til å føre til en radikal omveltning, men hvis man på denne måten klarer å sove 15 til 20 minutter mer hver natt, viser vitenskapen at det har store konsekvenser for livsløpet og kan spare verdensøkonomien for billioner av dollar på befolkningsnivå, bare for å nevne to gevinster. Det kan være en av de mest effektive faktorene i en fremtidsvisjon der vi går over fra en modell med sykepleie (behandling), som er det vi har nå, til helsepleie (forebyggelse) – hvor målet med det sistnevnte er å redusere behovet for det førstnevnte. Det er langt mer effektivt å forebygge enn å behandle, og i det lange løp koster det også langt mindre.
+
+Hva om vi gikk enda lenger og beveget oss fra analyse (dvs. her er søvnen din nå/tidligere, og her er kroppsvekten din nå/tidligere) til fremadskuende prediktalyse? La meg gå tilbake til eksempelet med røyking for å forklare begrepet. Det blir jobbet med å utvikle prediktalyse-apper som fungerer slik at du begynner med å ta et bilde av ditt eget ansikt med telefonen. Appen spør deretter hvor mange sigaretter du i snitt røyker om dagen. På grunnlag av vitenskapelige data om hvordan røyking påvirker ytre tegn som poser under øynene, rynker, psoriasis, hårtap og gule tenner, modifiserer appen bildet ut fra en antagelse om at du fortsetter å røyke, og viser deg hvordan ansiktet ditt kommer til å se ut på forskjellige tidspunkter: om ett år, to år, fem år, ti år.
+
+Den samme metoden kan man bruke med søvn, men på mange forskjellige nivåer: både ytre fremtoning og kroppens og hjernens indre helse. For eksempel kan vi vise mennesker den økte risikoen de løper for sykdommer som alzheimer og visse kreftformer hvis de fortsetter å sove for lite. Menn kan få se beregninger av hvordan testiklene deres kommer til å krympe eller testosteronnivået falle hvis de fortsetter å forsømme søvnen. Man kan gi tilsvarende risikoberegninger for økt kroppsvekt, diabetes, svekket immunforsvar og infeksjoner.
+
+Et annet eksempel kan være å tilby beregninger av når man bør eller ikke bør ta influensavaksine, basert på hvor mye man har sovet i uken før. Som du sikkert husker fra 8. kapittel, produserer man bare halvparten av de antistoffene man trenger hvis man har sovet i fire til seks timer om natten uken før man blir vaksinert, mens syv eller flere timer med søvn fører til en kraftig og omfattende immunreaksjon. Målet vil være å gi helsevesenet og sykehusene tilgang til sanntidsdata om hvordan enkeltmennesker sover, uke for uke. Programvaren kan sende brukerne varsler som forteller dem når de bør ta vaksinen for at den skal fungere best mulig.
+
+Dette vil ikke bare føre til bedre immunitet hos den enkelte, men også hos hele samfunnet, som vil utvikle bedre såkalt flokkimmunitet. Det er ikke så mange som er klar over at influensa hvert år koster USA rundt 100 milliarder dollar (10 milliarder direkte og 90 milliarder i tapt produktivitet på arbeidsplassen). Om denne programvaren bare reduserer smitteratene med noen få prosentpoeng, vil den økte immuniteten føre til besparelser på flere hundre millioner dollar ved å redusere sykehusenes kostnader i forbindelse med både innlagte og polikliniske pasienter. Når man på denne måten unngår produktivitetstap på grunn av sykdom og fravær, kan bedrifter og økonomien spare enda mer – potensielt milliarder av dollar – noe som kan bidra til å finansiere tiltaket.
+
+Vi kan skalere denne løsningen opp på globalt nivå; overalt hvor det finnes vaksiner og en mulighet til å spore noens søvn, finnes det en mulighet for at helsevesenet, styresmakter og bedrifter kan spare store beløp med et mål om å hjelpe mennesker til å leve sunnere.
+
+
+
+
+
+## Endringer i undervisningssektoren
+
+
+I løpet av de siste fem ukene har jeg gjennomført en uformell spørreundersøkelse blant kolleger, venner og familie i USA og i hjemlandet mitt, Storbritannia. Jeg har også inkludert venner og kolleger fra Spania, Hellas, Australia, Tyskland, Israel, Japan, Sør-Korea og Canada.
+
+Jeg spurte dem om hva slags helseinformasjon de hadde fått på skolen under oppveksten. Hadde de lært om kosthold? Det hadde 98 prosent av dem, og mange husket fremdeles enkelte detaljer (også detaljer som avvek fra dagens kostholdsråd). Hadde de fått opplæring om narkotika, alkohol, sikker sex og forplantningshelse? Hele 87 prosent svarte ja. Hadde de noen gang i løpet av skolegangen fått høre at mosjon var viktig, og/eller hadde gym vært en del av den obligatoriske undervisningen hver uke? Ja – det kunne 100 prosent bekrefte.
+
+Dette er ikke akkurat vitenskapelige data, men det later til at læreplanen for de fleste barn i industriland verden over omfatter undervisning i kosthold, mosjon og helse.
+
+Da jeg spurte dette mangslungne utvalget om de hadde lært noe på skolen om søvn, var svaret like unisont i motsatt retning: Null prosent hadde mottatt undervisning i eller informasjon om søvn. Heller ikke i helseundervisningen enkelte fortalte om, hadde man vært i nærheten av å streife innom søvnens viktige betydning for vår psykiske og fysiske helse. Hvis disse menneskene er representative, tyder det på at søvn ikke ofres en tanke i våre barns utdannelse. Generasjon på generasjon av unge sinn er uvitende om de umiddelbare farene og den langsiktige innvirkningen på helsen av å sove for lite, og personlig synes jeg det er feil.
+
+Jeg skulle gjerne ha samarbeidet med Verdens helseorganisasjon om å utvikle en undervisningsmodul som kan implementeres ved skoler over hele verden. Den kunne arte seg på mange måter, avhengig av aldersgruppe: en animert kortfilm på nettet, et brettspill i fysisk eller digitalt format (som man til og med kunne spille internasjonalt med søvn-«brevvenner») eller et virtuelt miljø der man kan utforske søvnens hemmeligheter. Det finnes mange muligheter, og de er alle enkle å overføre på tvers av kulturer og landegrenser.
+
+Målet ville være todelt: å endre disse barnas liv, og å øke bevisstheten om søvn og etablere bedre søvnvaner for å få de samme barna til å overføre sunne søvnverdier til sine egne barn. På denne måten kunne vi skape en respekt for søvnen som gikk i arv fra generasjon til generasjon, akkurat som vi gjør med alminnelig folkeskikk og moral. Medisinsk sett ville de neste generasjonene ikke bare nyte godt av et lengre liv, men dessuten, og viktigere, et sunnere liv uten de sykdommene og forstyrrelsene som kommer midt i eller sent i livet, og som vi vet skyldes (og ikke bare samvarierer med) kronisk søvnmangel. Kostnaden av å produsere et slikt undervisningsopplegg ville være en ørliten brøkdel av det vi i dag betaler for å la det globale søvnunderskuddet gå ubehandlet. Organisasjoner, selskaper og filantroper som leser dette og er interessert i å bidra til å gjøre ideen og ønsket til virkelighet, må gjerne ta kontakt.
+
+
+
+
+
+## Organisasjonsmessige endringer
+
+
+Jeg vil gjerne få gi tre temmelig forskjellige eksempler på hvordan vi kan reformere søvnen på arbeidsplassen og innen noen sentrale næringer.
+
+Først: for medarbeidere på arbeidsplassen. Det enorme forsikringsselskapet Aetna, som har nærmere 50 000 ansatte, har innført en mulighet for bonuser for dem som sover mer, basert på verifiserte data fra søvnmålere. Som styreleder og administrerende direktør i Aetna Mark Bertolini har uttalt: «At folk er til stede på arbeidsplassen og tar bedre beslutninger, er viktig for den grunnleggende driften.» Han fortsatte: «Man kan ikke være godt forberedt om man halvsover på jobb.» Ansatte som sover syv timer eller mer 20 netter på rad, får en bonus på 25 dollar per natt, til sammen (og med et tak på) 500 dollar.
+
+Noen vil kanskje fnyse av Bertolinis incentivsystem, men å utvikle en ny forretningskultur som bryr seg om hele livsløpet til de ansatte, dag og natt, er like økonomisk fornuftig som det er omsorgsfullt. Bertolini er etter alt å dømme klar over at bedrifter kan spare mye på å ha uthvilte medarbeidere. Når man investerer i søvn, betaler det seg uomtvistelig i form av økt produktivitet, kreativitet, entusiasme for arbeidet, energi, effektivitet – for ikke å snakke om tilfredshet, slik at folk ønsker å arbeide i selskapet og å bli der. Bertolinis empirisk dokumenterte visdom avviser feiloppfatninger om at man må slite ut de ansatte med 16 til 18 timer lange arbeidsdager og brenne dem ut i en modell hvor man bruker opp folk, hvor produktiviteten synker, hvor sykefraværet skyter i været, hvor moralen er lav og gjennomtrekken høy.
+
+Jeg støtter Bertolinis tanke av hele mitt hjerte, men ville ha foretatt en liten justering. Istedenfor eller i tillegg til den økonomiske bonusen kan man tilby ekstra ferie. Mange verdsetter fritid høyere enn moderate økonomiske frynsegoder. Jeg vil foreslå et system for «søvnpoeng» der søvntid kan byttes inn i enten penger eller ekstra feriedager. Det måtte skje med minst ett forbehold: Søvnpoengsystemet kunne ikke bare bli beregnet på grunnlag av sammenlagt søvntid i løpet av en uke eller en måned. Som vi har sett, er faste søvnvaner – å gi seg selv muligheten til å sove mellom syv og ni timer hver natt, uten å opparbeide seg gjeld i løpet av uken og håpe at man kan nedbetale den i helgen – like viktig som den sammenlagte søvntiden hvis man skal oppnå alle de psykiske og fysiske gevinstene av søvnen. Derfor bør søvnpoengene beregnes på grunnlag av en kombinasjon av søvnmengde og søvnkontinuitet.
+
+De som lider av insomni, behøver ikke å bli straffet. Metoden med regelmessig søvnregistrering kan hjelpe dem med å sette fingeren på problemet, og de kan motta kognitiv adferdsterapi gjennom smarttelefonen. Man kan gi incentiver til insomnibehandling ved hjelp av det samme poengsystemet, noe som i sin tur vil føre til bedre helse, produktivitet og fremgang i yrkeslivet for den enkelte.
+
+Den andre ideen for endring handler om fleksible arbeidstider. Istedenfor faste og relativt strengt avgrensede tider (f.eks. det klassiske ni til fem) bør bedrifter bruke en mer avrundet modell for arbeidstider, en modell formet som en flatklemt U stilt på hodet. Her er alle til stede innenfor en kjernetid for viktig samhandling – for eksempel fra 10.00 til 15.00. Men på hver side av denne kjernen kan arbeidstiden være fleksibel slik at den kan tilpasses alle individuelle kronotyper. B-mennesker kan begynne sent på dagen (f.eks. 12.00) og jobbe utover kvelden slik at de kan ta fatt på arbeidet med full mental kapasitet og fysisk energi. A-mennesker kan på sin side begynne og slutte tidlig og dermed slippe å slepe seg ineffektivt søvnige gjennom de siste timene av en standard-arbeidsdag. Dette vil også ha andre fordeler. Som ett eksempel kan man ta rushtrafikken, som ville bli redusert både om morgenen og om ettermiddagen. De indirekte besparelsene i tid, penger og stress ville ikke være til å kimse av.
+
+Kanskje hevder arbeidsgiveren din allerede å tilby en versjon av dette. Det jeg imidlertid har erfart som konsulent, er at muligheten riktignok finnes mange steder, men at det sjelden blir sett på som akseptabelt å benytte seg av den, særlig i ledelsens øyne. Dogmer og gammelt tankegods er visst et av de største hindrene for en bedre (dvs. mer søvntilpasset) forretningspraksis.
+
+Den tredje tanken om endringer i yrkeslivet dreier seg om medisinfeltet. Like akutt som behovet for å la leger sove mer er behovet for å tenke over hvordan søvn virker inn på behandlingen av pasienter. Jeg kan anskueliggjøre denne tanken ved hjelp av to eksempler.
+
+
+
+
+
+## Første eksempel: smerte
+
+
+Jo mindre man har sovet, eller jo mer oppstykket søvnen har vært, desto følsommere er man for smerte av alle slag. Det stedet der mennesker vanligvis opplever den største og mest vedvarende smerten, er også det siste stedet de klarer å sove godt: på sykehuset. Hvis du noen gang har vært så uheldig å tilbringe en natt på sykehus, vet du nok dette bare så altfor godt. Problemet er særlig komplisert på intensivavdelingen, der de mest alvorlig syke (og dermed de som har det største behovet for en hel natts søvn), blir behandlet. Uavlatelig piping og summing fra utstyr, alarmer som går av med jevne mellomrom, og hyppige prøver gjør det umulig for pasientene å oppnå noe som kan minne om avslappende eller rikelig søvn.
+
+Studier på arbeidsmiljøet i sykehusrom og -avdelinger forteller om et desibelnivå som tilsvarer det man finner i en travel restaurant eller bar, døgnet rundt. Det viser seg at 50 til 80 prosent av alle alarmer på intensivavdelinger er unødvendige, eller at de ansatte kan ignorere dem. Like frustrerende er det at mange pasientundersøkelser blir gjort til tider som er lite gunstige for pasientens søvn, selv om det ikke er nødvendig å foreta dem på et bestemt tidspunkt. Undersøkelsene kommer gjerne enten om ettermiddagen da pasienten kunne ha nytt godt av en naturlig, bifasisk høneblund, eller grytidlig om morgenen da pasientene først begynner å falle ordentlig i søvn.
+
+Ikke overraskende viser studier som er gjort på intensivavdelinger for hjertebehandling, medisin og kirurgi, konsekvent at pasientene gjennomgående sover dårlig. Når pasientene forstyrres av det bråkete og uvante miljøet på intensivavdelingen, bruker de lengre tid på å falle i søvn, våkner ofte, sover lettere og opplever mindre REM-søvn. Og for å gjøre saken enda verre overvurderer leger og sykepleiere konsekvent hvor mye pasientene får sove på intensivavdelinger, sammenlignet med objektivt målt søvn hos de samme personene. Kort sagt motvirker søvnmiljøet, og dermed søvnmengden en pasient i dette sykehusmiljøet oppnår, at pasientene friskner til igjen.
+
+Dette er noe vi kan løse. Det bør være mulig å utforme et system der man lar pasientens søvn være midtpunktet for behandlingen, eller i det minste ikke langt unna. I en av mine egne forskningsstudier har vi oppdaget at menneskehjernens smertesentre er 42 prosent mer følsomme for ubehagelig (men selvsagt uskadelig) temperaturpåvirkning etter en natt med for lite søvn, sammenlignet med en hel, åtte timer lang natts søvn. Det er interessant å merke seg at disse smertesentrene er de samme områdene som bedøvende legemidler som morfin påvirker. Det kan se ut til at søvn er et naturlig smertestillende middel. For lite søvn fører til at smerten oppfattes tydeligere i hjernen, og ikke minst til at pasienten kjenner den sterkere. Morfin er forresten ikke noe gunstig legemiddel å ta. Det hefter store trygghetsproblemer ved det blant annet i forbindelse med stans i åndedrettet, avhengighet og abstinenser, i tillegg til grufullt ubehagelige bivirkninger. Blant disse finner vi kvalme, tap av appetitt, kaldsvette, kløe og problemer med urinveiene og fordøyelsen, for ikke å snakke om at stoffet gir en form for bedøvelse som hindrer naturlig søvn. Morfin påvirker også hvordan andre medisiner fungerer, noe som kan føre til problematisk legemiddelinteraksjon.
+
+Hvis vi bedrer søvnforholdene for pasientene, kan det ikke bare føre til lavere dosering av legemidler, men også til at immunsystemet får et løft. Innlagte pasienter kan dermed forsvare seg langt mer effektivt mot infeksjoner, og operasjonssårene kan gro fortere. Når pasientene kommer seg raskere, blir også sykehusoppholdene kortere, og dermed vil både de medisinske kostnadene og forsikringspremiene synke. Ingen ønsker å være på sykehuset lenger enn det som er strengt nødvendig. De som administrerer sykehusene, deler den oppfatningen. Søvn kan hjelpe.
+
+De søvnbaserte løsningene trenger ikke å være kompliserte. Noen er enkle og rimelige og vil gi umiddelbar gevinst. Vi kan begynne med å fjerne det utstyret og de alarmene som den enkelte pasient ikke behøver. Dernest må vi sørge for at leger, sykepleiere og sykehusadministrasjonen får opplæring i helsegevinstene av å sove godt, slik at de forstår hvor høyt vi må prioritere pasientenes søvn. Vi kan også bruke det vanlige innleggelsesskjemaet til å spørre pasientene om når de vanligvis sover, og så i størst mulig grad forsøke å tilpasse prøver og legevisitter til det vanlige søvnmønsteret deres. Hvis jeg vanligvis våkner naturlig klokken 07.45, har jeg virkelig ikke noe ønske om å bli vekket klokken 06.30 når jeg ligger og prøver å komme meg etter en blindtarmsoperasjon.
+
+Andre enkle ideer? Gi alle pasienter ørepropper og sovemaske når de først ankommer avdelingen, akkurat som passasjerer på langdistanseflyvninger. Bruk dempet lys fra andre kilder enn LED-pærer om kvelden, og kraftig belysning om dagen. Dette vil hjelpe pasientene med å opprettholde en sterk døgnrytme og dermed et sterkt søvnmønster. Ingen av disse tiltakene er særlig kostbare; de fleste av dem kunne bli gjennomført i morgen, og alle vil ha merkbart positiv innvirkning på pasientenes søvn. Det er jeg sikker på.
+
+
+
+
+
+## Andre eksempel: nyfødte
+
+
+Det er en farlig utfordring å skulle holde et for tidlig født barn i live og ved god helse. Ustabil kroppstemperatur, belastninger på åndedrettet, vekttap og høye smitterater kan føre til ustabilt hjerte, svekket nevrologisk utvikling og dødsfall. Barn bør sove det aller meste av tiden i denne premature livsfasen, både om dagen og om natten. Men i de fleste nyfødtintensivavdelinger står det på kraftig lys hele natten samtidig som det skarpe elektriske taklyset invaderer barnas tynne øyelokk om dagen. Du kan jo se for deg hvordan det er å prøve å sove i konstant lys som står på døgnet rundt. Naturlig nok sover ikke barna normalt under disse forholdene. Det er verdt å gjenta det vi lærte i kapitlet om virkningene av søvnmangel hos mennesker og rotter: Det gir svekket evne til å opprettholde kroppstemperaturen, belastninger for hjerte- og karsystemet, pusteproblemer og et immunforsvar som klapper sammen.
+
+Hvorfor utformer vi ikke nyfødtintensivavdelinger slik at vi fremelsker mest mulig søvn og dermed utnytter søvnen som det livreddende verktøyet moder natur har perfeksjonert det til å bli? Bare de siste månedene har det kommet foreløpige funn fra flere nyfødtintensivavdelinger som har begynt med dempet belysning om dagen og mer eller mindre totalt mørke om natten. Under disse forholdene så man en bedring i hvor stabilt, lenge og godt barna sov. Som en følge av dette så man også en forbedring på 30 til 60 prosent i de nyfødtes vektøkning og dessuten vesentlig høyere oksygenmetning i blodet, sammenlignet med de for tidlig fødte som ikke fikk prioritert søvnen, og som dermed sov mindre regelmessig. Og ikke minst ble disse uthvilte prematurbarna skrevet ut fra sykehuset fem uker tidligere!
+
+Dette er en strategi vi også kan gjennomføre i mindre utviklede land uten behov for kostbare belysningssystemer, rett og slett ved å henge et stykke mørk plastfilm – et slags lysdempende slør – over de nyfødtes senger. Tiltaket koster under en dollar, men det vil føre til en betydelig lysreduserende gevinst i form av bedre og mer stabil søvn. Selv noe så enkelt som å bade barna på riktig tidspunkt før sengetid (og ikke midt på natten, som jeg har sett at man har gjort) kan bidra til å fremme god søvn istedenfor å hindre den. Begge deler er metoder som lar seg gjennomføre over hele kloden.
+
+Jeg må legge til at ingenting hindrer oss i å prioritere søvn og oppnå like kraftige virkninger ved alle pediatriske avdelinger for alle barn i alle land.
+
+
+
+
+
+## Politikk og samfunnsendringer
+
+
+På høyeste nivå må vi få bedre informasjonskampanjer for folkeopplysning. Vi bruker en knøttliten del av samferdselsbudsjettet på å advare mot farene ved kjøring i søvnig tilstand sammenlignet med de talløse kampanjene og innsatsen for å skape bevissthet om ulykker knyttet til narkotika og alkohol. Slik er det til tross for at kjøring i søvnig tilstand forårsaker flere ulykker enn de to andre – og er mer dødelig. Styresmakter kan redde hundretusenvis av liv hvert år ved å stable en slik kampanje på bena. Den ville enkelt betale seg selv, gitt hvor mye ulykker forårsaket av søvnige sjåfører koster helsevesenet og nødetatene. Selvfølgelig ville det også bidra til å senke bil- og helseforsikringspremiene for enkeltpersoner.
+
+Rettsforfølgelse av kjøring i søvnig tilstand er en annen mulighet. Enkelte delstater i USA har en egen paragraf for uaktsomt drap i trafikken som kommer av søvnmangel, noe som selvfølgelig er langt vanskeligere å påvise enn alkohol i blodet. Etter å ha samarbeidet med flere store bilprodusenter kan jeg fortelle at vi snart kan ha intelligent teknologi på plass i biler som kan hjelpe oss med å fastslå hva som er det typiske «avtrykket» for en ulykke der sjåføren har vært søvnig, på bakgrunn av sjåførens reaksjoner, øyne, adferd i trafikken og ulykkens art. Hvis vi kombinerer det med personlig historikk, særlig etter hvert som personlige søvnmålere blir mer populære, kan vi være svært nær ved å utvikle et søvnmangelens motsvar til pusteapparatet man bruker ved promilleprøver.
+
+Jeg vet at enkelte ikke vil ønske denne muligheten velkommen. Men det ville de kanskje ha gjort dersom de hadde mistet en de var glad i, i en ulykke som skyldtes utmattelse. Heldigvis kan utviklingen av delvis selvkjørende biler bidra til at vi unngår problemstillingen. Biler kan bruke de ovennevnte tegnene på utmattelse for å følge bedre med og ta mer kontroll fra sjåføren når det trengs.
+
+Å forvandle hele samfunn på aller høyeste nivå kommer ikke til å bli enkelt. Men vi kan låne utprøvde metoder fra andre helseområder for å få samfunnet til å sove bedre. Jeg vil bare gi ett eksempel. I USA gir mange helseforsikringsselskaper kundene sine en økonomisk bonus hvis de blir medlem av et treningsstudio. Med tanke på hvor gunstig det er for helsen når vi sover mer, burde det vel være mulig å få på plass en lignende incentivordning for mer regelmessig og rikelig søvn? Helseforsikringsselskapene kunne godkjenne fungerende apparater for søvnmåling som mange eier. Du, den enkelte, kunne så laste opp søvndataene dine til profilen hos forsikringsselskapet. På grunnlag av en trinninndeling med terskler basert på hva man rimeligvis kan forvente av den enkelte aldersgruppe, ville forsikringspremien på månedsbasis bli justert ned ved mer søvn. I likhet med mosjon vil dette bidra til å forbedre folkehelsen en masse og senke utgiftene til helsevesenet, samtidig som folk kan leve lengre og sunnere liv.
+
+Selv om den enkelte betalte lavere forsikringspremie, ville forsikringsselskapene tjene på dette, siden det ville føre til vesentlig lavere kostnader knyttet til forsikringstakerne og dermed høyere profittmarginer. Alle vinner. Noen vil selvfølgelig begynne å følge det nye regimet, men så falle fra, akkurat som når man melder seg inn i et treningssenter, og noen kommer kanskje til å lete etter muligheter for å narre eller utnytte systemet med presis søvnregistrering. Men hvis bare 50 til 60 prosent virkelig går inn for å sove mer, vil det spare flere ti- eller hundretalls millioner dollar i helsekostnader – for ikke å nevne at det vil redde hundretusenvis av liv.
+
+Jeg håper denne idégjennomgangen kan sende et optimistisk budskap i kontrast til den tabloide dommedagsstemningen som mediene så ofte påtvinger oss når det er snakk om helse. Jeg håper imidlertid at den kan gi leserne mer enn bare håp og føre til at dere selv finner bedre løsninger for deres egen søvn – ideer som for noen av dere kanskje kan bli til et kommersielt eller ikke-kommersielt foretak.
+
+
+
+
+
+## Avslutning
+
+
+Å sove eller ikke sove
+
+I løpet av så lite som hundre år har menneskene vendt ryggen til det biologiske behovet for å sove nok – et behov som evolusjonen har brukt 3,4 millioner år på å perfeksjonere som et system for å opprettholde livet. Når søvnen blir desimert i den industrialiserte verden, får det derfor en katastrofal innvirkning på helsen vår, på forventet levealder, sikkerheten, produktiviteten og våre barns utdannelse.
+
+Den tause søvnmangelepidemien er den største helseutfordringen i-landene står overfor i det 21. århundre. Hvis vi ønsker å unnslippe den kvelende renneløkken søvnforsømmelsen legger om halsen på oss, den for tidlige døden den påfører oss, og den skrale helsen den fører til, må det skje en radikal omveltning i hvordan vi ser på søvnen både som individer og på kulturelt, yrkesmessig og samfunnsmessig plan.
+
+Jeg mener det er på tide at vi krever tilbake retten til en hel natts søvn, uten skam eller risiko for å bli stemplet som dovne. På denne måten kan vi bli gjenforent med denne mektigste av alle trylledrikker for helse og vitalitet som sprer seg gjennom alle tenkelige biologiske baner. Da kan vi huske hvordan det virkelig er å være helt våken om dagen, gjennomsyret av tilværelsens aller dypeste overflod.
+
+
+
+
+
+## Tillegg
+
+
+Tolv råd for sunn søvn[v1]
+
+Hold deg til en timeplan. Legg deg og stå opp til samme tid hver dag. Vi er vanemennesker og har vanskelig for å tilpasse oss endringer i søvnmønsteret. Man kan ikke ta igjen for å ha sovet for lite i uken ved å sove lenger i helgene, men det vil bli vanskeligere å stå opp tidlig igjen mandag morgen. Sett en klokke til å ringe når det er på tide å gå og legge seg. Mange setter klokken til å ringe når vi skal stå opp, men de færreste når det er på tide å sove. Hvis du bare husker og tar til deg ett av disse tolv rådene, bør det være dette.
+
+
+
+Det er flott å trene, men ikke for sent på dagen. Forsøk å mosjonere minst 30 minutter de fleste dager, men ikke senere enn to til tre timer før du går og legger deg.
+
+
+
+Unngå koffein og nikotin. Kaffe, cola, sjokolade og enkelte typer te inneholder det stimulerende middelet koffein, og det kan ta så mye som åtte timer før virkningen gir seg helt. En kopp kaffe sent på ettermiddagen kan derfor gjøre det vanskelig å sove om natten. Nikotin er også et stimulerende middel som ofte får røykere til å sove veldig lett. I tillegg våkner mange røykere for tidlig om morgenen på grunn av nikotinabstinenser.
+
+
+
+Unngå alkohol før leggetid. Du slapper kanskje bedre av hvis du tar en drink før du går og legger deg, men tyngre bruk fratar deg REM-søvn og holder deg i de lettere søvnstadiene. Stort alkoholinntak kan også bidra til svekket åndedrett om natten. Man har dessuten en tendens til å våkne midt på natten når alkoholens virkninger går over.
+
+
+
+Unngå å drikke eller spise for mye sent på kvelden. Det går fint med en liten matbit, men store måltider kan føre til fordøyelsesbesvær, noe som forstyrrer søvnen. Drikker man for mye om kvelden, kan det føre til at man våkner ofte fordi man må opp og tisse.
+
+
+
+Unngå, såfremt det lar seg gjøre, medisiner som forsinker eller forstyrrer søvnen. Enkelte vanlige hjerte-, blodtrykks- og astmamedisiner, samt en del reseptfrie urtebaserte midler mot hoste, forkjølelse og allergi, kan forstyrre søvnmønsteret. Hvis du har problemer med å sove, bør du snakke med legen din eller en farmasøyt for å finne ut om noen av medisinene du tar, kan bidra til søvnløshet, og spørre om det er mulig å ta dem om dagen eller tidligere på kvelden.
+
+
+
+Ta ikke høneblunder etter klokken 15.00. Høneblunder kan bidra til å ta igjen for tapt søvn, men en lur på ettermiddagen kan gjøre det vanskeligere å sove om kvelden.
+
+
+
+Slapp av før sengetid. Ikke fyll dagen med for mange gjøremål slik at du ikke rekker å senke skuldrene. En avslappende aktivitet, som å lese eller høre på musikk, bør være en del av kveldsritualet.
+
+
+
+Ta et varmt bad før du legger deg. Fallet i kroppstemperatur etter at du kommer opp av badekaret, kan bidra til å gjøre deg søvnig, og badet kan også hjelpe deg med å slappe av og roe ned så du blir mer klar til å sove.
+
+
+
+La soverommet være mørkt, svalt og uten elektroniske duppeditter. Rydd soverommet for alt som kan distrahere deg og gjøre det vanskeligere å sove, som støy, kraftig lys, en ubekvem seng eller høy temperatur. Du sover bedre hvis temperaturen på soverommet er litt kjølig. En tv, mobiltelefon eller datamaskin på soverommet kan bli en distraksjon som tar søvnen fra deg. En god madrass og pute kan fremme en god natts søvn. De som lider av insomni, titter ofte på klokken. Vend urskiven bort slik at du ikke uroer deg for hvor sent det er mens du prøver å sove.
+
+
+
+Utsett deg for sollys på riktig måte. Dagslys er en nøkkelfaktor i reguleringen av døgnrytmen. Prøv å komme deg ut i naturlig sollys i minst 30 minutter hver dag. Stå opp med solen hvis det er mulig, eller benytt svært kraftig lys om morgenen. Søvneksperter anbefaler å være en time i kraftig sollys om morgenen og å dempe lyset om kvelden hvis du har problemer med å sovne.
+
+
+
+Bli ikke liggende våken i sengen. Hvis du fortsatt er våken etter å ha ligget i sengen i mer enn 20 minutter, eller hvis du merker at du begynner å bli engstelig eller urolig, bør du stå opp og gjøre et eller annet avslappende til du blir søvnig. Uroen man føler over ikke å få sove, kan gjøre det vanskeligere å sovne.
+
+
+
+
