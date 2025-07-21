@@ -19,7 +19,7 @@ llm = ChatOpenAI(model="gpt-4o", temperature=0.6)
 @st.cache_resource
 def build_vector_db():
     documents = []
-    folder_path = "Data"
+    folder_path = "data"
 
     if not os.path.exists(folder_path):
         raise FileNotFoundError(f"Mappen '{folder_path}' finnes ikke. Dobbeltsjekk at du har laget den.")
